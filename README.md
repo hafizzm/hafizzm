@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm hafiz, a self-learner data analyst from Malaysia
 
 <!--
 **hafizzm/hafizzm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
